@@ -529,8 +529,8 @@ export default {
 }
 
 .control {
-  width: 100%;
   height: 129px;
+  overflow: hidden;
   background: linear-gradient(
     180deg,
     rgba(0, 78, 195, 0) 0%,

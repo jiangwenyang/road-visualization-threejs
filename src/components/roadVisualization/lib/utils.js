@@ -75,7 +75,7 @@ function getModelPath(type, informationBoardDeviceType) {
   if (type === 'informationBoard') {
     return (
       INFORMATION_BOARD_DEVICE_MODEL_TYPE_MAP[informationBoardDeviceType] ||
-      '恶劣天气-情报板.glb'
+      '情报板2.glb'
     )
   }
   return DEVICE_MODEL_TYPE_MAP[type]

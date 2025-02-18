@@ -212,7 +212,7 @@ export async function createRoad(scene, config, options) {
 
 // 创建桩号
 export async function createPiles(scene, config, roadZFactor) {
-  const model = await loadModelByPath('恶劣天气-路桩.gltf')
+  const model = await loadModelByPath('路桩.gltf')
   const modelScene = model.scene
   fixModelCenter(modelScene)
 

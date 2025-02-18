@@ -3,7 +3,7 @@ import BaseDevice from './base-device'
 import { POSITION_TYPE } from '../constant'
 
 // 龙门架
-export class DoorDevice extends BaseDevice {
+export default class DoorDevice extends BaseDevice {
   async init() {
     await super.init()
     this.transform()

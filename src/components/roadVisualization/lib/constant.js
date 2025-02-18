@@ -42,8 +42,8 @@ const INFORMATION_BOARD_DEVICE_TYPE = {
 // 情报板设备模型路径
 const INFORMATION_BOARD_DEVICE_MODEL_TYPE_MAP = {
   [INFORMATION_BOARD_DEVICE_TYPE['门架H']]: '龙门架.glb',
-  [INFORMATION_BOARD_DEVICE_TYPE['悬臂F']]: '恶劣天气-情报板.glb',
-  [INFORMATION_BOARD_DEVICE_TYPE['立柱T']]: '恶劣天气-情报板.glb'
+  [INFORMATION_BOARD_DEVICE_TYPE['悬臂F']]: '情报板2.glb',
+  [INFORMATION_BOARD_DEVICE_TYPE['立柱T']]: '情报板2.glb'
 }
 
 export {

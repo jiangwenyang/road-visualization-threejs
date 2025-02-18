@@ -15,13 +15,17 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
+@import 'normalize.css';
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  background: #fff;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
 }
 </style>
