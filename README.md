@@ -30,6 +30,8 @@ live demo: <https://road-visualization-threejs.vercel.app/>
 
 ![DwPGp8](https://raw.githubusercontent.com/jiangwenyang/graphbed/master/uPic/DwPGp8.jpg)
 
+![DMGSTX](https://raw.githubusercontent.com/jiangwenyang/graphbed/master/uPic/DMGSTX.jpg)
+
 ## 开发
 
 ```bash
